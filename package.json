@@ -9,7 +9,7 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "ppplog": "^1.1.2",
+    "ppplog": "^1.1.6",
     "vue": "^3.4.21"
   },
   "devDependencies": {

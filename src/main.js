@@ -7,6 +7,6 @@ import App from './App.vue'
 
 ppplog.enableTime()
 //  解注释这一行是log生效
-// ppplog.disableppplog()
+ppplog.disableppplog()
 
 createApp(App).mount('#app')
